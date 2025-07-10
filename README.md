@@ -68,6 +68,13 @@ Confusion matrix menunjukkan akurasi tinggi karena dataset kecil dan model dilat
 
 ---
 
+## Insights
+Model memilih fitur dengan information gain tertinggi, menunjukkan pentingnya variabel seperti Pendapatan dan Penerima Raskin dalam menentukan status kesejahteraan.
+
+Baik ID3 maupun CART menghasilkan akurasi sempurna pada data training, namun ini perlu diwaspadai karena ukuran dataset kecil dan belum diuji pada data baru. Model cocok sebagai pembelajaran dasar pohon keputusan, namun belum siap untuk implementasi skala besar tanpa validasi lanjutan.
+
+---
+
 ## 📫 Contact
 
 Saskia – [https://linkedin.com/in/saskiaiqlimab]  
