@@ -27,6 +27,7 @@ Berisi 13 data observasi dengan variabel:
 - **Penerima BLT**
 - **Peserta BPJS**
 - **Kesejahteraan** (target: `Sejahtera`, `Tidak Sejahtera`)
+
 Sumber: Damanik, S. F., Wanto, A., & Gunawan, I. (2022). Penerapan Algoritma Decision Tree C4.5 untuk Klasifikasi Tingkat Kesejahteraan Keluarga pada Desa Tiga Dolok. Jurnal Krisnadana, 1(2), 21–32. https://doi.org/10.58982/krisnadana.v1i2.108
 
 ---
